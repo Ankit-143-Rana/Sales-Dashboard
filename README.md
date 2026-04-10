@@ -39,7 +39,10 @@ The dashboard includes the following KPIs:
 These KPIs provide a quick summary of overall business performance.
 
 📊 Dashboard Features
+
 https://github.com/Ankit-143-Rana/Sales-Dashboard/blob/main/Snapshot%20of%20Dashboard.png
+https://github.com/Ankit-143-Rana/Sales-Dashboard/blob/main/Snapshot%20of%20sales%20forecast.png
+
 🔹 1. Sales Analysis
 Sales by Category: Office Supplies, Technology, Furniture
 Sales by Sub-Category: Phones, Chairs, Binders
