@@ -41,7 +41,6 @@ These KPIs provide a quick summary of overall business performance.
 📊 Dashboard Features
 
 https://github.com/Ankit-143-Rana/Sales-Dashboard/blob/main/Snapshot%20of%20Dashboard.png
-https://github.com/Ankit-143-Rana/Sales-Dashboard/blob/main/Snapshot%20of%20sales%20forecast.png
 
 🔹 1. Sales Analysis
 Sales by Category: Office Supplies, Technology, Furniture
@@ -87,6 +86,9 @@ Texas
 Enables geographic performance comparison.
 
 🔹 7. 📈 Sales Forecasting
+
+https://github.com/Ankit-143-Rana/Sales-Dashboard/blob/main/Snapshot%20of%20sales%20forecast.png
+
 15-day sales forecast using time-series analysis
 
 Helps in predicting future sales trends and supports planning.
